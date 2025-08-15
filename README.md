@@ -41,7 +41,7 @@ g++ solution.cpp -o solution
 ---
 ## Questions 
 
-### Day 1:
+### [Day 1](https://docs.google.com/document/d/13A4_Ao-rcPtBixXnsMMDuN4ByQTIwV3dWuxmbxoJryA/edit?tab=t.0):
 You are given an array arr consisting only of 0s, 1s, and 2s. The task is to sort the array in increasing order 
 in linear time (i.e., O(n)) without using any extra space. This means you need to rearrange the array in-place.
 
@@ -49,7 +49,7 @@ in linear time (i.e., O(n)) without using any extra space. This means you need t
 
 ## 📸 Challenge Poster
 
-[![Challenge Poster](assets/challenge_poster.jpg)](https://dpc.wisdomsprouts.in/_next/image?url=%2Fassests%2Fbanner.png&w=640&q=75)
+[![Challenge Poster](assets/Challenge_poster.webp)](https://dpc.wisdomsprouts.in/_next/image?url=%2Fassests%2Fbanner.png&w=640&q=75)
 
 ---
 
