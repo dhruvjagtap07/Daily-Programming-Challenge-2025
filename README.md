@@ -19,7 +19,7 @@ Welcome to my solutions for the **30-Day Free Daily Programming Challenge** orga
 ## ▶️ How to Run
 ```bash
 # Clone the repository
-git clone https://github.com/YourUsername/30-Day-Programming-Challenge.git
+git clone [https://github.com/YourUsername/30-Day-Programming-Challenge.git](https://github.com/dhruvjagtap07/Daily-Programming-Challenge-2025)
 
 # Go to specific day's folder
 cd Day01
