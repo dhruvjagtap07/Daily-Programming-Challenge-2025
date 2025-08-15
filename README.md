@@ -19,7 +19,7 @@ Welcome to my solutions for the **30-Day Free Daily Programming Challenge** orga
 ## ▶️ How to Run
 ```bash
 # Clone the repository
-git clone [https://github.com/YourUsername/30-Day-Programming-Challenge.git](https://github.com/dhruvjagtap07/Daily-Programming-Challenge-2025)
+git clone https://github.com/dhruvjagtap07/Daily-Programming-Challenge-2025.git
 
 # Go to specific day's folder
 cd Day01
@@ -29,3 +29,33 @@ g++ solution.cpp -o solution
 ./solution
 ```
 ---
+
+## 📅 Progress Tracker
+
+| Day   | Problem Name    | Status |
+| ----- | --------------- | ------ |
+| Day 1 | Sort 0s, 1s, 2s | ✅ Done |
+| Day 2 | Coming soon...  | ⏳      |
+| ...   | ...             | ...    |
+
+---
+## Questions 
+
+### Day 1:
+You are given an array arr consisting only of 0s, 1s, and 2s. The task is to sort the array in increasing order 
+in linear time (i.e., O(n)) without using any extra space. This means you need to rearrange the array in-place.
+
+---
+
+## 📸 Challenge Poster
+
+[![Challenge Poster](assets/challenge_poster.jpg)](https://dpc.wisdomsprouts.in/_next/image?url=%2Fassests%2Fbanner.png&w=640&q=75)
+
+---
+
+## 🔗 Official Links
+
+- [Register Here](https://dpc.wisdomsprouts.in/register)
+- [More Info](https://docs.google.com/document/d/1hFLlAvbqOOVp4IBrP8SWOsDyHlkTjS7HBR79Ot6ekS4/edit?tab=t.0)
+- [Instagram Updates]()
+
