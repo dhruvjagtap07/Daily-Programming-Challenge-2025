@@ -37,7 +37,8 @@ g++ solution.cpp -o solution
 | Day   | Problem Name    | Status |
 | ----- | --------------- | ------ |
 | Day 1 | Sort 0s, 1s, 2s | ✅ Done |
-| Day 2 | Coming soon...  | ⏳      |
+| Day 2 | Missing Number  | ✅ Done |
+| Day 3 | Coming soon...  | ⏳      |
 | ...   | ...             | ...    |
 
 ---
@@ -48,6 +49,10 @@ You are given an array arr consisting only of 0s, 1s, and 2s. The task is to sor
 in linear time (i.e., O(n)) without using any extra space. This means you need to rearrange the array in-place.
 [**Solution**](https://github.com/dhruvjagtap07/Daily-Programming-Challenge-2025/blob/main/Day1.cpp)
 
+### [Day 2](https://docs.google.com/document/d/12_bbV-jW2RakUKA1C6yTllF_npjjmnTuyHHVSD5NVj8/edit?tab=t.0):
+You are given an array arr containing n-1 distinct integers. The array consists of integers taken from the
+range 1 to n, meaning one integer is missing from this sequence. Your task is to find the missing integer.
+[**Solution**](https://github.com/dhruvjagtap07/Daily-Programming-Challenge-2025/blob/main/Day2.cpp)
 ---
 
 ## 🔗 Official Links
