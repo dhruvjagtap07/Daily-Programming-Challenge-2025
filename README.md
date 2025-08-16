@@ -53,6 +53,7 @@ in linear time (i.e., O(n)) without using any extra space. This means you need t
 You are given an array arr containing n-1 distinct integers. The array consists of integers taken from the
 range 1 to n, meaning one integer is missing from this sequence. Your task is to find the missing integer.
 [**Solution**](https://github.com/dhruvjagtap07/Daily-Programming-Challenge-2025/blob/main/Day2.cpp)
+
 ---
 
 ## 🔗 Official Links
