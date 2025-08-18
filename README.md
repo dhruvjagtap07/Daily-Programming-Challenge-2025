@@ -37,7 +37,8 @@ g++ Day1.cpp -o Day1
 | Day 1 | Sort 0s, 1s, 2s | ✅ Done |
 | Day 2 | Missing Number  | ✅ Done |
 | Day 3 | Duplicate Number| ✅ Done |
-| Day 4 | Coming soon...  | ⏳      |
+| Day 4 | Merge Two Arrays| ✅ Done |
+| Day 5 | Coming soon...  | ⏳      |
 | ...   | ...             | ...    |
 
 ---
@@ -57,6 +58,10 @@ range 1 to n, meaning one integer is missing from this sequence. Your task is to
 You are given an array arr containing n-1 distinct integers. The array consists of integers taken from the
 range 1 to n, meaning one integer is missing from this sequence. Your task is to find the missing integer.
 [**solution**](https://github.com/dhruvjagtap07/Daily-Programming-Challenge-2025/blob/main/Day3.cpp)
+
+### [Day 4](https://docs.google.com/document/d/1OgR1qKTZmBkNiqWXfCnpsElLJqQBQKvce7WF1R_XXA4/edit?tab=t.0):
+You are given two sorted arrays arr1 of size m and arr2 of size n. Your task is to merge these two arrays into a single sorted array without using any extra space (i.e., in-place merging). The elements in arr1 should be merged first, followed by the elements of arr2, resulting in both arrays being sorted after the merge.
+[**solution**](https://github.com/dhruvjagtap07/Daily-Programming-Challenge-2025/blob/main/Day4.cpp)
 
 ---
 
