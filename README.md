@@ -38,7 +38,8 @@ g++ Day1.cpp -o Day1
 | Day 2 | Missing Number  | ✅ Done |
 | Day 3 | Duplicate Number| ✅ Done |
 | Day 4 | Merge Two Arrays| ✅ Done |
-| Day 5 | Coming soon...  | ⏳      |
+| Day 5 | Array Leaders | ✅ Done |
+| Day 6 | Coming soon...  | ⏳      |
 | ...   | ...             | ...    |
 
 ---
@@ -62,6 +63,11 @@ range 1 to n, meaning one integer is missing from this sequence. Your task is to
 ### [Day 4](https://docs.google.com/document/d/1OgR1qKTZmBkNiqWXfCnpsElLJqQBQKvce7WF1R_XXA4/edit?tab=t.0):
 You are given two sorted arrays arr1 of size m and arr2 of size n. Your task is to merge these two arrays into a single sorted array without using any extra space (i.e., in-place merging). The elements in arr1 should be merged first, followed by the elements of arr2, resulting in both arrays being sorted after the merge.
 [**solution**](https://github.com/dhruvjagtap07/Daily-Programming-Challenge-2025/blob/main/Day4.cpp)
+
+### [Day 5](https://docs.google.com/document/d/1lKNcZA8OToRCwL2hqaNzYx5A2ImGHRRE6K9MQwxh580/edit?tab=t.0):
+You are given an integer array arr of size n. An element is considered a leader if it is greater
+ than all the elements to its right. Your task is to find all such leader elements in the array.
+[**solution**](https://github.com/dhruvjagtap07/Daily-Programming-Challenge-2025/blob/main/Day5.cpp)
 
 ---
 
