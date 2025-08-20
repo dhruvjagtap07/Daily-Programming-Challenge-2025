@@ -39,7 +39,8 @@ g++ Day1.cpp -o Day1
 | Day 3 | Duplicate Number| ✅ Done |
 | Day 4 | Merge Two Arrays| ✅ Done |
 | Day 5 | Array Leaders | ✅ Done |
-| Day 6 | Coming soon...  | ⏳      |
+| Day 6 | Sub array sum zero| ✅ Done |
+| Day 7 | Coming soon...  | ⏳      |
 | ...   | ...             | ...    |
 
 ---
@@ -68,6 +69,10 @@ You are given two sorted arrays arr1 of size m and arr2 of size n. Your task is 
 You are given an integer array arr of size n. An element is considered a leader if it is greater
  than all the elements to its right. Your task is to find all such leader elements in the array.
 [**solution**](https://github.com/dhruvjagtap07/Daily-Programming-Challenge-2025/blob/main/Day5.cpp)
+
+### [Day 6](https://docs.google.com/document/d/1KMZ0FfJQE9px1mO_j6VmFXe7ueBa2-Z-nQ6BrE9G2rI/edit?tab=t.0):
+You are given an integer array arr of size n. Your task is to find all the subarrays whose elements sum up to zero. A subarray is defined as a contiguous part of the array, and you must return the starting and ending indices of each subarray.
+[**solution**](https://github.com/dhruvjagtap07/Daily-Programming-Challenge-2025/blob/main/Day6.cpp)
 
 ---
 
