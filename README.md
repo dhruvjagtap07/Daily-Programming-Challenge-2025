@@ -39,7 +39,7 @@ g++ Day1.cpp -o Day1
 | Day 3 | Duplicate Number| ✅ Done |
 | Day 4 | Merge Two Arrays| ✅ Done |
 | Day 5 | Array Leaders | ✅ Done |
-| Day 6 | Sub array sum zero| ✅ Done |
+| Day 6 | Sub Array sum zero | ✅ Done |
 | Day 7 | Coming soon...  | ⏳      |
 | ...   | ...             | ...    |
 
