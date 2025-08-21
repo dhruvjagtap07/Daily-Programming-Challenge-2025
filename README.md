@@ -40,7 +40,8 @@ g++ Day1.cpp -o Day1
 | Day 4 | Merge Two Arrays| ✅ Done |
 | Day 5 | Array Leaders | ✅ Done |
 | Day 6 | Sub Array sum zero | ✅ Done |
-| Day 7 | Coming soon...  | ⏳      |
+| Day 7 | Trapping Rain water | ✅ Done |
+| Day 8 | Coming soon...  | ⏳      |
 | ...   | ...             | ...    |
 
 ---
@@ -73,6 +74,10 @@ You are given an integer array arr of size n. An element is considered a leader 
 ### [Day 6](https://docs.google.com/document/d/1KMZ0FfJQE9px1mO_j6VmFXe7ueBa2-Z-nQ6BrE9G2rI/edit?tab=t.0):
 You are given an integer array arr of size n. Your task is to find all the subarrays whose elements sum up to zero. A subarray is defined as a contiguous part of the array, and you must return the starting and ending indices of each subarray.
 [**solution**](https://github.com/dhruvjagtap07/Daily-Programming-Challenge-2025/blob/main/Day6.cpp)
+
+### [Day 7](https://docs.google.com/document/d/1VpkYkKC07_1tUL_AsoJYi0s8G8xVP5LcQMuPOtP3yeI/edit?tab=t.0):
+You are given an array height[] of non-negative integers where each element represents the height of a bar in a histogram-like structure. These bars are placed next to each other, and the width of each bar is 1 unit. When it rains, water gets trapped between the bars if there are taller bars on both the left and right of the shorter bars. The task is to calculate how much water can be trapped between these bars after the rain.
+[**solution**](https://github.com/dhruvjagtap07/Daily-Programming-Challenge-2025/blob/main/Day7.cpp)
 
 ---
 
