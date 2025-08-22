@@ -51,35 +51,6 @@ public:
 
         return result;
     }
-
-private:
-    vector<string> split(string s)
-    {
-        int n = s.length();
-
-        vector<string> tokens;
-
-        string temp = "";
-
-        for (int i = 0; i < n; i++)
-        {
-            if (s[i] == ' ')
-            {
-                if (temp != " " && temp != "")
-                {
-                    tokens.push_back(temp);
-                    temp = "";
-                }
-            }
-            else
-                temp += s[i];
-        }
-
-        if (temp != "")
-            tokens.push_back(temp);
-
-        return tokens;
-    }
 };
 
 int main()
