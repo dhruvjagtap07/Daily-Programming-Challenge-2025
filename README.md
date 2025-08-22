@@ -41,7 +41,8 @@ g++ Day1.cpp -o Day1
 | Day 5 | Array Leaders | ✅ Done |
 | Day 6 | Sub Array sum zero | ✅ Done |
 | Day 7 | Trapping Rain water | ✅ Done |
-| Day 8 | Coming soon...  | ⏳      |
+| Day 8 | Reverse Words | ✅ Done |
+| Day 9 | Coming soon...  | ⏳      |
 | ...   | ...             | ...    |
 
 ---
@@ -78,6 +79,10 @@ You are given an integer array arr of size n. Your task is to find all the subar
 ### [Day 7](https://docs.google.com/document/d/1VpkYkKC07_1tUL_AsoJYi0s8G8xVP5LcQMuPOtP3yeI/edit?tab=t.0):
 You are given an array height[] of non-negative integers where each element represents the height of a bar in a histogram-like structure. These bars are placed next to each other, and the width of each bar is 1 unit. When it rains, water gets trapped between the bars if there are taller bars on both the left and right of the shorter bars. The task is to calculate how much water can be trapped between these bars after the rain.
 [**solution**](https://github.com/dhruvjagtap07/Daily-Programming-Challenge-2025/blob/main/Day7.cpp)
+
+### [Day 8](https://docs.google.com/document/d/1VpkYkKC07_1tUL_AsoJYi0s8G8xVP5LcQMuPOtP3yeI/edit?tab=t.0):
+You are given a string s that consists of multiple words separated by spaces. Your task is to reverse the order of the words in the string. Words are defined as sequences of non-space characters. The output string should not contain leading or trailing spaces, and multiple spaces between words should be reduced to a single space.
+[**solution**](https://github.com/dhruvjagtap07/Daily-Programming-Challenge-2025/blob/main/Day8.cpp)
 
 ---
 
