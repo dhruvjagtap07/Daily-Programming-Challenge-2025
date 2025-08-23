@@ -85,7 +85,7 @@ You are given an array height[] of non-negative integers where each element repr
 You are given a string s that consists of multiple words separated by spaces. Your task is to reverse the order of the words in the string. Words are defined as sequences of non-space characters. The output string should not contain leading or trailing spaces, and multiple spaces between words should be reduced to a single space.
 [**solution**](https://github.com/dhruvjagtap07/Daily-Programming-Challenge-2025/blob/main/Day8.cpp)
 
-### [Day 8](https://docs.google.com/document/d/1ne2Rx3CGsbipkIEHlR0xXWAoyKn69qgyPD7USIbZKjo/edit?tab=t.0):
+### [Day 9](https://docs.google.com/document/d/1ne2Rx3CGsbipkIEHlR0xXWAoyKn69qgyPD7USIbZKjo/edit?tab=t.0):
 You are given an array of strings strs[], consisting of lowercase letters. Your task is to find the longest
 common prefix shared among all the strings. If there is no common prefix, return an empty string "".A common
 prefix is a substring that appears at the beginning of all the strings in the array. The task is to identify
