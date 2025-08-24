@@ -43,7 +43,8 @@ g++ Day1.cpp -o Day1
 | Day 7 | Trapping Rain water | ✅ Done |
 | Day 8 | Reverse Words | ✅ Done |
 | Day 9 | Longest Prefix | ✅ Done |
-| Day 10 | Coming soon...  | ⏳      |
+| Day 10 | Find Anagrams | ✅ Done |
+| Day 11 | Coming soon...  | ⏳      |
 | ...   | ...             | ...    |
 
 ---
@@ -92,6 +93,9 @@ prefix is a substring that appears at the beginning of all the strings in the ar
 the longest such prefix that all strings share.
 [**solution**](https://github.com/dhruvjagtap07/Daily-Programming-Challenge-2025/blob/main/Day9.cpp)
 
+### [Day 10](https://docs.google.com/document/d/1vLsga5LSrkePvcIcAjVIXNzxm8-ohXGyTslLarPd_m0/edit?tab=t.0):
+You are given an array of strings strs[]. Your task is to group all the strings that are anagrams of each other. An anagram is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once. The goal is to return the grouped anagrams as a list of lists, where each sublist contains words that are anagrams of each other.
+[**solution**](https://github.com/dhruvjagtap07/Daily-Programming-Challenge-2025/blob/main/Day10.cpp)
 
 ---
 
