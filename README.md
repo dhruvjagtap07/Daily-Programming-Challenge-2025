@@ -44,7 +44,8 @@ g++ Day1.cpp -o Day1
 | Day 8 | Reverse Words | ✅ Done |
 | Day 9 | Longest Prefix | ✅ Done |
 | Day 10 | Find Anagrams | ✅ Done |
-| Day 11 | Coming soon...  | ⏳      |
+| Day 11 | String Permutation's | ✅ Done |
+| Day 12 | Coming soon...  | ⏳      |
 | ...   | ...             | ...    |
 
 ---
@@ -97,11 +98,18 @@ the longest such prefix that all strings share.
 You are given an array of strings strs[]. Your task is to group all the strings that are anagrams of each other. An anagram is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once. The goal is to return the grouped anagrams as a list of lists, where each sublist contains words that are anagrams of each other.
 [**solution**](https://github.com/dhruvjagtap07/Daily-Programming-Challenge-2025/blob/main/Day10.cpp)
 
+### [Day 11](https://docs.google.com/document/d/1UG8x6IpG-7NM6beEtZyx4VYfWfrX3dEm1zG1t2cS5qo/edit?tab=t.0):
+You are given a string s. Your task is to generate and return all possible permutations of the characters in 
+the string. A permutation is a rearrangement of the characters in the string, and each character must appear 
+exactly once in every permutation. If there are duplicate characters in the string, the resulting permutations
+should also be unique (i.e., no repeated permutations).
+[**solution**](https://github.com/dhruvjagtap07/Daily-Programming-Challenge-2025/blob/main/Day11.cpp)
+
 ---
 
 ## 🔗 Official Links
 
 - [Register Here](https://dpc.wisdomsprouts.in/register?ref=DJ7AW)
 - [More Info](https://docs.google.com/document/d/1hFLlAvbqOOVp4IBrP8SWOsDyHlkTjS7HBR79Ot6ekS4/edit?tab=t.0)
-- [WhatsApp Grp](https://chat.whatsapp.com/KpIwV0j91kY1S0knpJnhp2)
+- [WhatsApp Group](https://chat.whatsapp.com/KpIwV0j91kY1S0knpJnhp2)
 
