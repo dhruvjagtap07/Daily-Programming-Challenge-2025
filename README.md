@@ -45,7 +45,8 @@ g++ Day1.cpp -o Day1
 | Day 9 | Longest Prefix | ✅ Done |
 | Day 10 | Find Anagrams | ✅ Done |
 | Day 11 | String Permutation's | ✅ Done |
-| Day 12 | Coming soon...  | ⏳      |
+| Day 12 | Valid Parentheses | ✅ Done |
+| Day 13 | Coming soon...  | ⏳      |
 | ...   | ...             | ...    |
 
 ---
@@ -104,6 +105,15 @@ the string. A permutation is a rearrangement of the characters in the string, an
 exactly once in every permutation. If there are duplicate characters in the string, the resulting permutations
 should also be unique (i.e., no repeated permutations).
 [**solution**](https://github.com/dhruvjagtap07/Daily-Programming-Challenge-2025/blob/main/Day11.cpp)
+
+### [Day 12](https://docs.google.com/document/d/1NUePZz68oMD3Jyi8TT3qDIYazRL_t4jkfuw95H-T_Qs/edit?tab=t.0):
+You are given a string s consisting of different types of parentheses: (), {}, and []. Your task is
+to determine whether the given string is valid. A string is considered valid if:
+1. Every opening bracket has a corresponding closing bracket of the same type.
+2. The brackets are closed in the correct order. This means that a closing
+   bracket must close the most recent unmatched opening bracket.
+[**solution**](https://github.com/dhruvjagtap07/Daily-Programming-Challenge-2025/blob/main/Day12.cpp)
+
 
 ---
 
