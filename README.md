@@ -46,7 +46,8 @@ g++ Day1.cpp -o Day1
 | Day 10 | Find Anagrams | ✅ Done |
 | Day 11 | String Permutation's | ✅ Done |
 | Day 12 | Valid Parentheses | ✅ Done |
-| Day 13 | Coming soon...  | ⏳      |
+| Day 13 | Longest Palindromic Substring | ✅ Done |
+| Day 14 | Coming soon...  | ⏳      |
 | ...   | ...             | ...    |
 
 ---
@@ -114,6 +115,10 @@ to determine whether the given string is valid. A string is considered valid if:
    bracket must close the most recent unmatched opening bracket.
 [**solution**](https://github.com/dhruvjagtap07/Daily-Programming-Challenge-2025/blob/main/Day12.cpp)
 
+### [Day 13](https://docs.google.com/document/d/1dhSQWn4VskminZMcgmnmHqn1u3a5HlXD3aIBkKS3vKU/edit?tab=t.0):
+You are given a string s. Your task is to find and return the longest palindromic substring 
+within the given string. A palindrome is a string that reads the same forwards and backwards.
+[**solution**](https://github.com/dhruvjagtap07/Daily-Programming-Challenge-2025/blob/main/Day13.cpp)
 
 ---
 
