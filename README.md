@@ -47,7 +47,8 @@ g++ Day1.cpp -o Day1
 | Day 11 | String Permutation's | ✅ Done |
 | Day 12 | Valid Parentheses | ✅ Done |
 | Day 13 | Longest Palindromic Substring | ✅ Done |
-| Day 14 | Coming soon...  | ⏳      |
+| Day 14 | Count Substrings with Exactly K Distinct Characters | ✅ Done |
+| Day 15 | Coming soon...  | ⏳      |
 | ...   | ...             | ...    |
 
 ---
@@ -119,6 +120,11 @@ to determine whether the given string is valid. A string is considered valid if:
 You are given a string s. Your task is to find and return the longest palindromic substring 
 within the given string. A palindrome is a string that reads the same forwards and backwards.
 [**solution**](https://github.com/dhruvjagtap07/Daily-Programming-Challenge-2025/blob/main/Day13.cpp)
+
+### [Day 14](https://docs.google.com/document/d/1s1II27KnOrgFJFqoVmrhex7E_BGSV-d2P0_iYBqu71o/edit?tab=t.0):
+You are given a string s of lowercase English alphabets and an integer k. Your task 
+is to count all possible substrings of s that contain exactly k distinct characters.
+[**solution**](https://github.com/dhruvjagtap07/Daily-Programming-Challenge-2025/blob/main/Day14.cpp)
 
 ---
 
