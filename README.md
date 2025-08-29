@@ -48,7 +48,8 @@ g++ Day1.cpp -o Day1
 | Day 12 | Valid Parentheses | ✅ Done |
 | Day 13 | Longest Palindromic Substring | ✅ Done |
 | Day 14 | Count Substrings with Exactly K Distinct Characters | ✅ Done |
-| Day 15 | Coming soon...  | ⏳      |
+| Day 15 | Longest Substring | ✅ Done |
+| Day 16 | Coming soon...  | ⏳      |
 | ...   | ...             | ...    |
 
 ---
@@ -125,6 +126,11 @@ within the given string. A palindrome is a string that reads the same forwards a
 You are given a string s of lowercase English alphabets and an integer k. Your task 
 is to count all possible substrings of s that contain exactly k distinct characters.
 [**solution**](https://github.com/dhruvjagtap07/Daily-Programming-Challenge-2025/blob/main/Day14.cpp)
+
+### [Day 15](https://docs.google.com/document/d/1O-I-LwpUhdnxF8vtEAkIAOyCqH5uFZJtCBuqL39krTs/edit?tab=t.0):
+You are given a string S, and your task is to find the length of the longest substring that 
+contains no repeating characters. A substring is a contiguous block of characters in the string.
+[**solution**](https://github.com/dhruvjagtap07/Daily-Programming-Challenge-2025/blob/main/Day15.cpp)
 
 ---
 
