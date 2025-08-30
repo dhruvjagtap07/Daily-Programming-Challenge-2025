@@ -49,7 +49,8 @@ g++ Day1.cpp -o Day1
 | Day 13 | Longest Palindromic Substring | ✅ Done |
 | Day 14 | Count Substrings with Exactly K Distinct Characters | ✅ Done |
 | Day 15 | Longest Substring | ✅ Done |
-| Day 16 | Coming soon...  | ⏳      |
+| Day 16 | LCM of two numbers | ✅ Done |
+| Day 17 | Coming soon...  | ⏳      |
 | ...   | ...             | ...    |
 
 ---
@@ -131,6 +132,11 @@ is to count all possible substrings of s that contain exactly k distinct charact
 You are given a string S, and your task is to find the length of the longest substring that 
 contains no repeating characters. A substring is a contiguous block of characters in the string.
 [**solution**](https://github.com/dhruvjagtap07/Daily-Programming-Challenge-2025/blob/main/Day15.cpp)
+
+### [Day 16](https://docs.google.com/document/d/1IYVT5Ji2TdxEHTt8s0VBrMh2p2tbuD7XhVaiJNEhEwc/edit?tab=t.0):
+You are given two integers, N and M. Your task is to find the Least Common Multiple (LCM) of these 
+two numbers. The LCM of two integers is the smallest positive integer that is divisible by both N and M.
+[**solution**](https://github.com/dhruvjagtap07/Daily-Programming-Challenge-2025/blob/main/Day16.cpp)
 
 ---
 
