@@ -50,7 +50,8 @@ g++ Day1.cpp -o Day1
 | Day 14 | Count Substrings with Exactly K Distinct Characters | ✅ Done |
 | Day 15 | Longest Substring | ✅ Done |
 | Day 16 | LCM of two numbers | ✅ Done |
-| Day 17 | Coming soon...  | ⏳      |
+| Day 17 | Prime Factorization | ✅ Done |
+| Day 18 | Coming soon...  | ⏳      |
 | ...   | ...             | ...    |
 
 ---
@@ -137,6 +138,11 @@ contains no repeating characters. A substring is a contiguous block of character
 You are given two integers, N and M. Your task is to find the Least Common Multiple (LCM) of these 
 two numbers. The LCM of two integers is the smallest positive integer that is divisible by both N and M.
 [**solution**](https://github.com/dhruvjagtap07/Daily-Programming-Challenge-2025/blob/main/Day16.cpp)
+
+### [Day 17](https://docs.google.com/document/d/1z-zPYWaywuymkyIDdTRRq2bH8TXJJVW896pJXlKl0a8/edit?tab=t.0):
+Given a positive integer N, your task is to find its prime factorization. Return a list of prime 
+numbers that multiply together to give N. If N is prime, the output should be a list containing only N.
+[**solution**](https://github.com/dhruvjagtap07/Daily-Programming-Challenge-2025/blob/main/Day17.cpp)
 
 ---
 
