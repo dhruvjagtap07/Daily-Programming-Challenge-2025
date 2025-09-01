@@ -51,7 +51,8 @@ g++ Day1.cpp -o Day1
 | Day 15 | Longest Substring | ✅ Done |
 | Day 16 | LCM of two numbers | ✅ Done |
 | Day 17 | Prime Factorization | ✅ Done |
-| Day 18 | Coming soon...  | ⏳      |
+| Day 18 | Number of Divisors | ✅ Done |
+| Day 19 | Coming soon...  | ⏳      |
 | ...   | ...             | ...    |
 
 ---
@@ -143,6 +144,12 @@ two numbers. The LCM of two integers is the smallest positive integer that is di
 Given a positive integer N, your task is to find its prime factorization. Return a list of prime 
 numbers that multiply together to give N. If N is prime, the output should be a list containing only N.
 [**solution**](https://github.com/dhruvjagtap07/Daily-Programming-Challenge-2025/blob/main/Day17.cpp)
+
+### [Day 18](https://docs.google.com/document/d/1LbNORWiQSVY1C5TbS7ucoGFR1d0ttg7vWMDF2sxC3HI/edit?tab=t.0):
+Given a positive integer N, your task is to find the total number of divisors (factors) of N. 
+A divisor of N is any integer that divides N without leaving a remainder. A divisor of a number 
+is any integer that divides the number evenly (i.e., without a remainder). 
+[**solution**](https://github.com/dhruvjagtap07/Daily-Programming-Challenge-2025/blob/main/Day18.cpp)
 
 ---
 
