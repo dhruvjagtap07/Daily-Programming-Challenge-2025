@@ -53,7 +53,8 @@ g++ Day1.cpp -o Day1
 | Day 17 | Prime Factorization | ✅ Done |
 | Day 18 | Number of Divisors | ✅ Done |
 | Day 19 | Evaluate a Postfix Expression | ✅ Done |
-| Day 20 | Coming soon...  | ⏳      |
+| Day 20 | Sort a Stack using recursion | ✅ Done |
+| Day 21 | Coming soon...  | ⏳      |
 | ...   | ...             | ...    |
 
 ---
@@ -155,6 +156,13 @@ is any integer that divides the number evenly (i.e., without a remainder).
 ### [Day 19](https://docs.google.com/document/d/1E-FOtZ_p1dtsvvdYJUhzhQ_4Q5tIL_qMj27MHo0qjkw/edit?tab=t.0):
 Given a postfix expression (also known as Reverse Polish Notation), your task is to evaluate the expression and return the result. The expression can contain integers and the four basic arithmetic operators +, -, *, and /. Assume that the input is always valid and the division operator performs integer division, truncating towards zero.
 [**solution**](https://github.com/dhruvjagtap07/Daily-Programming-Challenge-2025/blob/main/Day19.cpp)
+
+### [Day 20](https://docs.google.com/document/d/13megzpeSisgjpkGST7jm9HIuf_pxljiHdMdAxJzwioc/edit?tab=t.0):
+Given a stack of integers, your task is to write a function that sorts the stack in ascending order. 
+You are not allowed to use any additional data structure like arrays, lists, or another stack. The 
+only operations you are allowed to perform are push, pop, and peek on the stack. The sorting must 
+be performed using recursion only.
+[**solution**](https://github.com/dhruvjagtap07/Daily-Programming-Challenge-2025/blob/main/Day20.cpp)
 
 ---
 
