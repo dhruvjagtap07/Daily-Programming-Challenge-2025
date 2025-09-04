@@ -54,7 +54,8 @@ g++ Day1.cpp -o Day1
 | Day 18 | Number of Divisors | ✅ Done |
 | Day 19 | Evaluate a Postfix Expression | ✅ Done |
 | Day 20 | Sort a Stack using recursion | ✅ Done |
-| Day 21 | Coming soon...  | ⏳      |
+| Day 21 | Reverse a Stack using recursion | ✅ Done |
+| Day 22 | Coming soon...  | ⏳      |
 | ...   | ...             | ...    |
 
 ---
@@ -163,6 +164,13 @@ You are not allowed to use any additional data structure like arrays, lists, or 
 only operations you are allowed to perform are push, pop, and peek on the stack. The sorting must 
 be performed using recursion only.
 [**solution**](https://github.com/dhruvjagtap07/Daily-Programming-Challenge-2025/blob/main/Day20.cpp)
+
+### [Day 21](https://docs.google.com/document/d/1_Hk6mo8O-9iOs_zqeaQPGGYYpvpGf4G1dQVX6cph0o0/edit?tab=t.0):
+You are given a stack of integers, and your task is to write a function that reverses the stack using recursion.
+You are not allowed to use any additional data structure (like arrays, lists, or another stack). The only
+operations you are allowed to perform are push, pop, and peek on the stack. The reversal must be done using
+recursion only.
+[**solution**](https://github.com/dhruvjagtap07/Daily-Programming-Challenge-2025/blob/main/Day21.cpp)
 
 ---
 
