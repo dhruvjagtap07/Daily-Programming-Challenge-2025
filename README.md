@@ -55,7 +55,8 @@ g++ Day1.cpp -o Day1
 | Day 19 | Evaluate a Postfix Expression | ✅ Done |
 | Day 20 | Sort a Stack using recursion | ✅ Done |
 | Day 21 | Reverse a Stack using recursion | ✅ Done |
-| Day 22 | Coming soon...  | ⏳      |
+| Day 22 | First Element to Repeat k Times | ✅ Done |
+| Day 23 | Coming soon...  | ⏳      |
 | ...   | ...             | ...    |
 
 ---
@@ -171,6 +172,11 @@ You are not allowed to use any additional data structure (like arrays, lists, or
 operations you are allowed to perform are push, pop, and peek on the stack. The reversal must be done using
 recursion only.
 [**solution**](https://github.com/dhruvjagtap07/Daily-Programming-Challenge-2025/blob/main/Day21.cpp)
+
+### [Day 22](https://docs.google.com/document/d/1avnRg6bMiSi0HaDfIX5O1N4CXOe3Lm5Wi3RofJ-5F1M/edit?tab=t.0):
+You are given an array of integers and an integer k. Your task is to find the first element 
+in the array that appears exactly k times. If no such element exists, return -1.
+[**solution**](https://github.com/dhruvjagtap07/Daily-Programming-Challenge-2025/blob/main/Day22.cpp)
 
 ---
 
