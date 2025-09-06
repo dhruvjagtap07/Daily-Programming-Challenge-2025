@@ -56,7 +56,8 @@ g++ Day1.cpp -o Day1
 | Day 20 | Sort a Stack using recursion | ✅ Done |
 | Day 21 | Reverse a Stack using recursion | ✅ Done |
 | Day 22 | First Element to Repeat k Times | ✅ Done |
-| Day 23 | Coming soon...  | ⏳      |
+| Day 23 | Sliding Window Maximum | ✅ Done |
+| Day 24 | Coming soon...  | ⏳      |
 | ...   | ...             | ...    |
 
 ---
@@ -177,6 +178,12 @@ recursion only.
 You are given an array of integers and an integer k. Your task is to find the first element 
 in the array that appears exactly k times. If no such element exists, return -1.
 [**solution**](https://github.com/dhruvjagtap07/Daily-Programming-Challenge-2025/blob/main/Day22.cpp)
+
+### [Day 23](https://docs.google.com/document/d/18Lk3c6lbZGdK0xnUUyB2kg_m_wAvqA3gOHyEFXiVrOg/edit?tab=t.0):
+You are given an array of integers arr and a positive integer k. Your task is to find the maximum 
+element in each sliding window of size k. The window slides from left to right, one element at a 
+time, and you need to return the maximum element for each of these windows.
+[**solution**](https://github.com/dhruvjagtap07/Daily-Programming-Challenge-2025/blob/main/Day23.cpp)
 
 ---
 
