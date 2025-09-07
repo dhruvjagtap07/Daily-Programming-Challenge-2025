@@ -57,7 +57,8 @@ g++ Day1.cpp -o Day1
 | Day 21 | Reverse a Stack using recursion | ✅ Done |
 | Day 22 | First Element to Repeat k Times | ✅ Done |
 | Day 23 | Sliding Window Maximum | ✅ Done |
-| Day 24 | Coming soon...  | ⏳      |
+| Day 24 | Lowest Common Ancestor in a Binary Tree | ✅ Done |
+| Day 25 | Coming soon...  | ⏳      |
 | ...   | ...             | ...    |
 
 ---
@@ -184,6 +185,12 @@ You are given an array of integers arr and a positive integer k. Your task is to
 element in each sliding window of size k. The window slides from left to right, one element at a 
 time, and you need to return the maximum element for each of these windows.
 [**solution**](https://github.com/dhruvjagtap07/Daily-Programming-Challenge-2025/blob/main/Day23.cpp)
+
+### [Day 24](https://docs.google.com/document/d/1f8XIUlP-HA-Ncb8sybVjukDcMvf9J827WcEWHsv1joU/edit?tab=t.0):
+You are given a binary tree and two distinct nodes within the tree. Your task is to find the lowest 
+common ancestor (LCA) of these two nodes. The LCA of two nodes p and q is defined as the lowest node 
+in the tree that has both p and q as descendants (where we allow a node to be a descendant of itself).
+[**solution**](https://github.com/dhruvjagtap07/Daily-Programming-Challenge-2025/blob/main/Day24.cpp)
 
 ---
 
