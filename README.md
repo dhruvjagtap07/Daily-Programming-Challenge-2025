@@ -58,7 +58,8 @@ g++ Day1.cpp -o Day1
 | Day 22 | First Element to Repeat k Times | ✅ Done |
 | Day 23 | Sliding Window Maximum | ✅ Done |
 | Day 24 | Lowest Common Ancestor in a Binary Tree | ✅ Done |
-| Day 25 | Coming soon...  | ⏳      |
+| Day 25 | Valid Binary Tree | ✅ Done |
+| Day 26 | Coming soon...  | ⏳      |
 | ...   | ...             | ...    |
 
 ---
@@ -191,6 +192,13 @@ You are given a binary tree and two distinct nodes within the tree. Your task is
 common ancestor (LCA) of these two nodes. The LCA of two nodes p and q is defined as the lowest node 
 in the tree that has both p and q as descendants (where we allow a node to be a descendant of itself).
 [**solution**](https://github.com/dhruvjagtap07/Daily-Programming-Challenge-2025/blob/main/Day24.cpp)
+
+### [Day 24](https://docs.google.com/document/d/1I0JMR6siS0a9AUE-JoAgIV4aiAacNvBm2lFnInfq-eQ/edit?tab=t.0):
+You are given the root of a binary tree. Your task is to determine whether the tree is a valid Binary Search Tree (BST). A binary search tree is defined as a tree where:
+- Every node’s left subtree contains only nodes with values less than the node’s value.
+- Every node’s right subtree contains only nodes with values greater than the node’s value.
+- Both the left and right subtrees must also be binary search trees.
+[**solution**](https://github.com/dhruvjagtap07/Daily-Programming-Challenge-2025/blob/main/Day25.cpp)
 
 ---
 
