@@ -60,7 +60,8 @@ g++ Day1.cpp -o Day1
 | Day 24 | Lowest Common Ancestor in a Binary Tree | ✅ Done |
 | Day 25 | Valid Binary Tree | ✅ Done |
 | Day 26 | Detect a Cycle in Graph | ✅ Done |
-| Day 27 | Coming soon...  | ⏳      |
+| Day 27 | Shortest Path in Graph | ✅ Done |
+| Day 28 | Coming soon...  | ⏳      |
 | ...   | ...             | ...    |
 
 ---
@@ -206,6 +207,11 @@ You are given an undirected graph represented by an adjacency list. Your task is
 contains any cycle. A cycle is formed if you can traverse through a sequence of edges that starts and ends
 at the same vertex, with at least one edge in between.
 [**solution**](https://github.com/dhruvjagtap07/Daily-Programming-Challenge-2025/blob/main/Day26.cpp)
+
+### [Day 27](https://docs.google.com/document/d/159HnE_jCzdTsOFJFBlNOLwJoWsBNWokPiUgizeoV-2M/edit?tab=t.0):
+You are given an unweighted graph represented by an adjacency list. Your task is to find 
+the shortest path (in terms of the number of edges) between two given nodes in the graph.
+[**solution**](https://github.com/dhruvjagtap07/Daily-Programming-Challenge-2025/blob/main/Day27.cpp)
 
 ---
 
